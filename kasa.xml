@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="ssh://git@github.com/" />
+  <default revision="master" remote="origin" />
+
+  <project path="rpi-xc112"
+           name="deantonccns/kasa-rpi-xc112.git" remote="origin" />
+
+  <project path="wup-demo-framework"
+           name="deantonccns/kasa-wup-demo-framework.git" remote="origin" />
+
+</manifest>
